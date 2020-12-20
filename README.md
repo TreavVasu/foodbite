@@ -1,6 +1,11 @@
 # foodybite
 
-A project 
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/16835617/102720335-c1d2e780-4319-11eb-9ef5-3d4ec5cd6096.png" width="400" /> 
+..
+  <img src="https://user-images.githubusercontent.com/16835617/102720342-c8f9f580-4319-11eb-8aef-e8718215860d.png" width="400" /> 
+</p>
+
 
 ## Getting Started
 
